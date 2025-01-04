@@ -54,11 +54,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 This will print the recent activity for the specified GitHub user to your console.
 
-### Built With
+## Built With
 Go - Programming language
 
-### Contributing
+## Contributing
 Contributions are welcome! Please feel free to open issues or submit pull requests.
 
-### License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
